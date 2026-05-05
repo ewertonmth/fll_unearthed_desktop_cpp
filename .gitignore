@@ -1,0 +1,6 @@
+build/
+*.user
+*.o
+*.exe
+*.AppImage
+.DS_Store
