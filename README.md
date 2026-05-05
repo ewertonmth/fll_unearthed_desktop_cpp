@@ -5,11 +5,11 @@ Agora o sistema roda como aplicativo desktop, sem precisar subir backend, API ou
 
 ## O que foi convertido
 
-- Backend FastAPI virou camada local de persistência em C++.
-- Banco SQLite foi mantido.
+- Backend camada local de persistência em C++.
+- Banco SQLite.
 - Regras de pontuação foram migradas para `ScoringService`.
-- Dashboard Dash virou interface desktop com Qt Widgets.
-- Gráficos foram implementados com widgets customizados em C++, sem depender de Plotly.
+- Dashboard virou interface desktop com Qt Widgets.
+- Gráficos foram implementados com widgets customizados em C++.
 - Cadastro, listagem, métricas e exclusão de rounds funcionam localmente.
 
 ## Estrutura
