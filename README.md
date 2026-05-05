@@ -1,7 +1,6 @@
 # FLL Unearthed Desktop C++
 
-Versão desktop em **C++ + Qt 6 + SQLite** do projeto original feito com **FastAPI + Dash**.
-
+Versão desktop em **C++ + Qt 6 + SQLite**
 Agora o sistema roda como aplicativo desktop, sem precisar subir backend, API ou navegador.
 
 ## O que foi convertido
